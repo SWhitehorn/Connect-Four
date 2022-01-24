@@ -1,2 +1,3 @@
 # ConnectFour
-Implementation of a command-line Connect Four game
+
+Command-line Connect Four game, featuring an implementation of a AI player using a minimax algorithm.
